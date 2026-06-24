@@ -1,0 +1,6 @@
+{
+  "name": "CivicMesh",
+  "description": "An award-winning AI-driven Decentralized Civic Verification Mesh. Uses real-time geospatial proximity filters and Gemini 3.5 Multimodal Vision to automatically analyze, verify, and deduplicate hyperlocal infrastructure reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
